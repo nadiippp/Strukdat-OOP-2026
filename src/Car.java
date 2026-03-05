@@ -21,8 +21,5 @@ public String getBrand(){
     return brand;
 }
 
-public int getSpeed(){
-    return speed;
-}
 }
 
